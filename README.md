@@ -1,2 +1,0 @@
-# bot-executable
-# bot-executable
